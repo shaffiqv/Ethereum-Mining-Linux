@@ -1,2 +1,2 @@
 #bash
-./resno -U -P stratum1+tcp://0x4F1E7Da5596E8AA3D2C29c043c042C3db6380B7E@asia1.ethermine.org:4444
+./resno -U -P stratum1+tcp://0xDfd32e0D3D15727a8Ca96f6dA9C49c7aD9552685@asia1.ethermine.org:4444
